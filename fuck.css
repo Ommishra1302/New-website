@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+:root{
+    --navbar-height:60px;
+}
+#navbar{
+    display: flex;
+
+}
+/* Logo and Image */
+#logo{
+
+}
+#logo img{
+    
+}
+
+/* List styling */
